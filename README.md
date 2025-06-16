@@ -1,4 +1,4 @@
-# Flutter animation challenge 6 - food ordering app
+# Flutter animation challenge 6 - food ordering app ui
 
 A Flutter animation implementation based on [Tasty Burger](https://dribbble.com/shots/4038053-Tasty-Burger-App). 
 
